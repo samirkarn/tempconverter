@@ -1,0 +1,60 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: teal;
+}
+
+form {
+    width: 700px;
+    height: 241px;
+    background-color: white;
+    margin: 8rem;
+    margin-left: 350px;
+    box-shadow: 5px 5px grey;
+    border-radius: 2rem;
+}
+
+label {
+    font-family: system-ui;
+    font-size: 25px;
+    margin: 50px;
+    font-weight: 500;
+    color: brown;
+}
+
+#temp {
+    width: 105px;
+    margin: 4px;
+    margin-top: 50px;
+    margin-left: 241px;
+    border-radius: 5px;
+    height: 22px;
+}
+
+#temp_diff {
+    width: 105px;
+    margin: 4px;
+    margin-top: 50px;
+    border-radius: 5px;
+    height: 22px;
+    background-color: antiquewhite;
+}
+
+#submitBtn {
+    width: 105px;
+    margin: 4px;
+    margin-top: 15px;
+    margin-left: 302px;
+    border-radius: 5px;
+    height: 22px;
+    background-color: black;
+    color: white;
+    font-weight: 700;
+}
+
+#resultContainer {
+    margin-left: 223px;
+    color: red;
+    text-align: center;
+    font-size: 22px;
+}
